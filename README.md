@@ -23,7 +23,7 @@ This is a simple Android application that fetches and displays the current weath
 
     ```bash
     git clone https://github.com/GaryFeng86/EEP523HW3.git
-    cd weather-app
+    cd EEP523HW3
     ```
 
 2. **Open the project in Android Studio:**
